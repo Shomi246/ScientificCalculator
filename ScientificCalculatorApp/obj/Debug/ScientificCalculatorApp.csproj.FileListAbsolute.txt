@@ -1,0 +1,9 @@
+c:\users\minar\documents\visual studio 2017\Projects\ScientificCalculatorApp\ScientificCalculatorApp\bin\Debug\ScientificCalculatorApp.exe.config
+c:\users\minar\documents\visual studio 2017\Projects\ScientificCalculatorApp\ScientificCalculatorApp\bin\Debug\ScientificCalculatorApp.exe
+c:\users\minar\documents\visual studio 2017\Projects\ScientificCalculatorApp\ScientificCalculatorApp\bin\Debug\ScientificCalculatorApp.pdb
+c:\users\minar\documents\visual studio 2017\Projects\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\minar\documents\visual studio 2017\Projects\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.Form1.resources
+c:\users\minar\documents\visual studio 2017\Projects\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.Properties.Resources.resources
+c:\users\minar\documents\visual studio 2017\Projects\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.csproj.GenerateResource.Cache
+c:\users\minar\documents\visual studio 2017\Projects\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.exe
+c:\users\minar\documents\visual studio 2017\Projects\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.pdb
